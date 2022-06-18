@@ -1,0 +1,15 @@
+body {
+height:100%;overflow-y:hidden;margin:0;padding:0;color:#202020;
+}
+
+body,button,input {
+font-family:Tahoma;font-size:14px;
+}
+
+div.header {padding:10px;margin:0;background-color:whitesmoke;overflow-y:hidden}
+
+div.contents {padding:0;margin:0;overflow:hidden}
+
+canvas {padding:0;margin:0;overflow:hidden}
+
+#myrange::-ms-track {color:transparent;}
